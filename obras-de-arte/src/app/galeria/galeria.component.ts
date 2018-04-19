@@ -14,13 +14,13 @@ export class GaleriaComponent implements OnInit {
     "Imagem03",
     "Imagem04",
     "Imagem05",
-    "Imagem06",
-    "Imagem07",
-    "Imagem08"
+    "Imagem06"
+ 
   ];
 
     mostrarimagem: boolean = true;
 
+s
   constructor() { }
 
   ngOnInit() {
